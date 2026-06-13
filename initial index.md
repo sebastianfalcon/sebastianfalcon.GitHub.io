@@ -8,6 +8,6 @@ Here are a few things I might include later:
 
 * Links to my web mapping projects
 * Information about my skills and experience
-* A way to contacct me
+* A way to contact me
 
 ** Stay tuned for updates!**
