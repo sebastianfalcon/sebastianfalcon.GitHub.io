@@ -9,4 +9,13 @@ Here are a few things I might include later:
 * Information about my skills and experience
 * A way to contact me
 
-**Stay tuned for updates!**
+<h2>San Diego Bicycle Collision Dashboard</h2>
+<p>An interactive ArcGIS Dashboard built from SWITRS bicycle collision data (2014–2023), including a severity filter and custom Arcade-driven popups.</p>
+
+<iframe 
+  src="https://sdsugeo.maps.arcgis.com/apps/dashboards/2b23cace9ab44273a72b552a78c01980" 
+  width="100%" 
+  height="700" 
+  frameborder="0" 
+  style="border:1px solid #ccc;">
+</iframe>
